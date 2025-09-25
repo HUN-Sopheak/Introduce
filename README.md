@@ -1,86 +1,23 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Sopheak</h1>
-<h3 align="center">💻 Full-Stack Developer | 🌐 Web Architect | ☕ Java & Spring Boot Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sopheak</h1>
+<h3 align="center">A passionate frontend developer from Cambodia</h3>
 
-<p align="center">
-  <a href="mailto:sopheakhun.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://gitlab.com/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hun-sopheak&label=Profile%20views&color=0e75b6&style=flat" alt="hun-sopheak" /> </p>
+
+- 🌱 I’m currently learning **Spring Boot, Cyber Security**
+
+- 👨‍💻 All of my projects are available at [https://sopheak-hun.vercel.app/](https://sopheak-hun.vercel.app/)
+
+- 💬 Ask me about **Vue**
+
+- 📫 How to reach me **sopheakhun.dev@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## 🧑‍💼 About Me
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hun-sopheak&show_icons=true&locale=en&layout=compact" alt="hun-sopheak" /></p>
 
-I’m **Sopheak**, a passionate **Full-Stack Developer** specializing in building modern, scalable, and high-performance applications.  
-I love solving complex problems, crafting intuitive UIs, and architecting powerful backend systems.
-
-- 🌱 Currently exploring **Spring Boot** & **system design**  
-- 🚀 Experienced with **Vue, Nuxt, Laravel, and Java**  
-- ✨ Always improving my skills in **backend, frontend, and DevOps**
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-## 📂 Projects
-
-### 💰 Accounting System
-- Built a financial system for managing transactions (deposits, withdrawals, transfers).
-- Automated cash flow monitoring and reporting tools.
-
-### 💳 Loan Management System
-- Developed a loan management platform to automate application and repayment schedules.
-- Implemented reporting features to enhance loan workflow efficiency.
-
-### ⚽ Soccer Website with Cloud Firestore
-- Built a real-time soccer web app using Cloud Firestore for live scores and match schedules.
-- Integrated external APIs with SSR for seamless video streaming.
-
-### 🏨 Hotel Management System
-- Created modules for invoicing, housekeeping, mail management, and expense tracking.
-- Streamlined hotel operations with automation.
-
-### 👔 Human Resource Management System
-- Developed modules for Department, Job Position, Allowance, Deduction, Staff, Payroll, and Payslip.
-- Automated payroll and employee management processes.
-
----
-
-## 📊 GitLab / GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HUN-Sopheak&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUN-Sopheak&theme=tokyonight" height="180px" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:sopheakhun.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://gitlab.com/"><img src="https://img.shields.io/badge/View%20My%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-</p>
-
----
-
-💡 *"The best way to predict the future is to build it." – Alan Kay*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hun-sopheak&" alt="hun-sopheak" /></p>
